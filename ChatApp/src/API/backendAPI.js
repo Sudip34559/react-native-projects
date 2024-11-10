@@ -1,5 +1,4 @@
 import axios from 'axios';
-import Config from 'react-native-config';
 
 // Create a custom axios instance
 const api = axios.create({
